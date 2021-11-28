@@ -1,0 +1,7 @@
+C:\Users\Matvey\Desktop\AndrIvan\AndrIvan\bin\Debug\AndrIvan.exe.config
+C:\Users\Matvey\Desktop\AndrIvan\AndrIvan\bin\Debug\AndrIvan.exe
+C:\Users\Matvey\Desktop\AndrIvan\AndrIvan\bin\Debug\AndrIvan.pdb
+C:\Users\Matvey\Desktop\AndrIvan\AndrIvan\obj\Debug\AndrIvan.csprojAssemblyReference.cache
+C:\Users\Matvey\Desktop\AndrIvan\AndrIvan\obj\Debug\AndrIvan.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\Desktop\AndrIvan\AndrIvan\obj\Debug\AndrIvan.exe
+C:\Users\Matvey\Desktop\AndrIvan\AndrIvan\obj\Debug\AndrIvan.pdb
